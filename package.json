@@ -1,0 +1,50 @@
+{
+	"name": "true-blue",
+	"displayName": "True Blue",
+	"description": "Elegant blue colored theme with graceful shades",
+	"icon": "theme_logo.jpg",
+	"version": "0.0.1",
+	"publisher": "MohdBilal",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dark-glich/VS-code-Theme.git"
+	},
+	"keywords": [
+		"Themes",
+		"My Theme",
+		"True Blue",
+		"true blue",
+		"Blue theme",
+		"Dark theme",
+		"Stylish theme"
+	],
+	"engines": {
+		"vscode": "^1.54.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "True Blue",
+				"uiTheme": "vs-dark",
+				"path": "./themes/True Blue-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "2481f97b-9444-4ea6-a2c1-e61962750855",
+		"publisherId": "ad4081ec-73ee-4c3e-9828-f3e8eba853c1",
+		"publisherDisplayName": "Mohd Bilal",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1728639553171,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery",
+		"size": 31834
+	}
+}
