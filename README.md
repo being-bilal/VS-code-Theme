@@ -1,6 +1,5 @@
 # **True Blue - VS Code Theme**
-
-![VS Code Theme Preview](assets/theme-preview.png)  
+ 
 *A modern, clean, and eye-friendly VS Code theme.*
 
 ## **🌟 Features**
@@ -25,7 +24,7 @@
 3. Select **MohdBilal True Blue** from the list
 
 ## **🎨 Screenshot**
-### **Dark Mode**
+
 ![Theme Image](assets/theme-preview.png)
 
 ## **⚙️ Customization**
